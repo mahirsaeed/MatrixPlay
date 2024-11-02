@@ -1,5 +1,9 @@
 # SwiftUI Matrix Effect with Interactive Dot Menu
 
+
+https://github.com/user-attachments/assets/98b7233f-2344-4e91-81a4-c70cf4a0dc87
+
+
 ## Overview
 
 This SwiftUI project brings the classic Matrix Effect to life with a twist! By tapping and dragging, users can interact with a responsive grid of dots, creating mesmerizing ripple effects. A side menu provides options to customize the color and shape of the dots, allowing for a personalized and engaging visual experience.
